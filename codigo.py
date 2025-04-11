@@ -1,5 +1,5 @@
 # Lista com os valores de vendas realizadas em cada semana do mês
-vendas_mensais = [1000, 4000, 100]
+vendas_mensais = [1000, 2000, 100]
 
 # Função que recebe uma lista de valores e retorna a soma total
 def calcular_total_vendas (vendas):
